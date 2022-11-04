@@ -41,4 +41,7 @@ int main () {
 
 ![To jest pies](animals\dog.jpg)
 
+#### Poniższe zdjęcie przedstawia Małpkę (nie jest to jednak Arktyczna Małpka)
+![To prawie jest Arktyczna Małpka](animals\Monkey.jpg)
+
 
