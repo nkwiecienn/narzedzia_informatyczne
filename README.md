@@ -37,8 +37,8 @@ int main () {
 ```
 #### Poniższe zdjęcia nie przedstawiają Arctic Monkeys
 
-![To jest kot](animals\cat.jpg)
+![To jest kot](animals/cat.jpg)
 
-![To jest pies](animals\dog.jpg)
+![To jest pies](animals/dog.jpg)
 
 
